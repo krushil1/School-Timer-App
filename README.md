@@ -1,5 +1,5 @@
 # School-Timer-App
-My School Timer iOS app made with https://github.com/lukelmg, the original creator of https://schooltimer.glitch.me/ 
+My School Timer iOS app made in collaboration with Luke Gutman https://github.com/lukelmg, the original creator of https://schooltimer.glitch.me/ 
 
 
 # Check out the lastest release
